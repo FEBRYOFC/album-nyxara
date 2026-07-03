@@ -1,0 +1,18 @@
+{
+  "albums": [
+    {
+      "name": "Febry Dev",
+      "cover": "Febry-Dev-01.jpg",
+      "photos": [
+        "Febry-Dev-01.jpg",
+        "Febry-Dev-02.jpg",
+        "Febry-Dev-03.jpg",
+        "Febry-Dev-04.jpg",
+        "Febry-Dev-05.jpg"
+      ]
+    }
+  ],
+  "music": [
+    "HAPPY-NATION-SPEED-UP.mp3"
+  ]
+}
