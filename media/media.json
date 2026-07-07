@@ -3,18 +3,46 @@
     {
       "name": "Febry Developer Bukan Sepuh",
       "cover": "Febry-Dev-01.jpg",
-      "photos": ["Febry-Dev-01.jpg"]
+      "photos": [
+        "Febry-Dev-01.jpg"
+      ]
     },
     {
       "name": "Shefty",
       "cover": "Shefty-01.jpg",
-      "photos": ["Shefty-01.jpg", "Shefty-02.jpg", "Shefty-03.jpg", "Shefty-04.jpg", "Shefty-05.jpg"]
+      "photos": [
+        "Shefty-01.jpg",
+        "Shefty-02.jpg",
+        "Shefty-03.jpg",
+        "Shefty-04.jpg",
+        "Shefty-05.jpg"
+      ]
     },
     {
       "name": "Ina",
       "cover": "Ina-01.jpg",
-      "photos": ["Ina-01.jpg", "Ina-02.jpg"]
+      "photos": [
+        "Ina-01.jpg",
+        "Ina-02.jpg"
+      ]
+    },
+    {
+      "name": "Fany Aja Lah",
+      "cover": "Fany-01.jpg",
+      "photos": [
+        "Fany-01.jpg"
+      ]
+    },
+    {
+      "name": "Saa Imut",
+      "cover": "Saa-imut-01.jpg",
+      "photos": [
+        "Saa-imut-01.jpg",
+        "Saaa-imut-02.jpg"
+      ]
     }
   ],
-  "music": ["HAPPY-NATION-SPEED-UP.mp3"]
+  "music": [
+    "HAPPY-NATION-SPEED-UP.mp3"
+  ]
 }
