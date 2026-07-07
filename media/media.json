@@ -4,11 +4,18 @@
       "name": "Febry Dev",
       "cover": "Febry-Dev-01.jpg",
       "photos": [
-        "Febry-Dev-01.jpg",
-        "Febry-Dev-02.jpg",
-        "Febry-Dev-03.jpg",
-        "Febry-Dev-04.jpg",
-        "Febry-Dev-05.jpg"
+        "Febry-Dev-01.jpg"
+      ]
+    },
+    {
+      "name": "Shefty",
+      "cover": "Shefty-01.jpg",
+      "photos": [
+        "Shefty-01.jpg",
+        "Shefty-02.jpg",
+        "Shefty-03.jpg",
+        "Shefty-04.jpg",
+        "Shefty-05.jpg"
       ]
     }
   ],
